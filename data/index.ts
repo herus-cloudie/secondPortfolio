@@ -182,6 +182,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    link : "https://t.me/Herus_soll"
+    link : "https://www.linkedin.com/in/amirmoslemi/"
   },
 ];
